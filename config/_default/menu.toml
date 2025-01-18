@@ -10,7 +10,7 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/OdeiCastresana"
 
 [social.params]
 icon = "brand-github"
@@ -22,3 +22,20 @@ url = "https://twitter.com"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "goodreads"
+name = "Goodreads"
+url = "https://https://www.goodreads.com/user/show/163462162-odei"
+
+[social.params]
+icon = "brand-goodreads"
+
+[[social]]
+identifier = "linkedin"
+name = "linkedin"
+url = "https://www.linkedin.com/in/hodei-castresana"
+
+[social.params]
+icon = "brand-linkedin"
+
